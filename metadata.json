@@ -1,0 +1,6 @@
+{
+  "name": "AccelerateFresh - Fresher to Senior AI & Behavioral Accelerator",
+  "description": "Interactive career acceleration platform for fresh IT graduates to master GenAI, Agentic AI architectures, and corporate behavioral skills to excel alongside senior engineers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
